@@ -7,6 +7,7 @@ TF implementation of SketchRNN from https://github.com/stwind/SketchRNN_tf2
 Adapted for OOD by rtwomey@unl.edu 2022
 
 Open [usage.ipynb](notebooks/usage.ipynb)
+
 ------
 
 
