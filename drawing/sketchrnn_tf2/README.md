@@ -3,9 +3,14 @@
 <img style="float: right;" width="216" height="216" src="assets/rabbits_1692_144.gif"> 
 This repo contains a simple implementation of the SketchRNN model with Tensorflow 2, following the best practice as much as possible.
 
+TF implementation of SketchRNN from https://github.com/stwind/SketchRNN_tf2, adapted for OOD by rtwomey@unl.edu 2022
+
+See the complete examples in [usage.ipynb](notebooks/usage.ipynb)
+
+------
 
 
-
+# OLD STUFF
 
 ## Setup
 
