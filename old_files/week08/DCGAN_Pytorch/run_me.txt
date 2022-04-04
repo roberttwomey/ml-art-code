@@ -1,1 +1,0 @@
-python main.py --dataset cifar10 --dataroot ./dataset --cuda
