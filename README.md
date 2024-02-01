@@ -5,7 +5,7 @@ Hello class!
 
 For 2024 we are going to try using Google Colab. 
 
-## Schedule
+## Topics
 
 ### Basics
 - [Overview_of_Colaboratory_Features.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/basics/Overview_of_Colaboratory_Features.ipynb)
