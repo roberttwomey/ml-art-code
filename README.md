@@ -21,6 +21,7 @@ Toy examples:
 Fully connected:
 - [MNIST_Python_Neural_Network.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/intro/MNIST_Python_Neural_Network.ipynb)
   - optional: [MNIST_Fashion_Classification.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/intro/MNIST_Fashion_Classification.ipynb)
+- [simple_mnist.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/intro/simple_mnist.ipynb) (uses keras/tensorflow)
 
-RNNs:
-- [Text_Generation_RNN.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/intro/Text_Generation_RNN.ipynb)
+### RNNs
+- [Text_Generation_RNN.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/intro/Text_Generation_RNN.ipynb) (tensorflow)
